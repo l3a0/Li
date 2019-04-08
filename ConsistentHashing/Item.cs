@@ -27,12 +27,12 @@
 
         public override bool Equals(object obj)
         {
-            if (!(obj is Node otherNode))
+            if (!(obj is Item otherItem))
             {
                 return false;
             }
 
-            return this.Name == otherNode.Name;
+            return this.Name == otherItem.Name;
         }
 
         public override string ToString()
