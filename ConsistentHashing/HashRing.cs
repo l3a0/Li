@@ -1,8 +1,4 @@
-﻿// ----------------------------------------------------------------------------
-// Copyright (c) Microsoft Corporation. All rights reserved.
-// ----------------------------------------------------------------------------
-
-namespace ConsistentHashing
+﻿namespace ConsistentHashing
 {
     using System.Collections.Generic;
     using System.Linq;
